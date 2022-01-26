@@ -11,29 +11,32 @@
  */
 class Solution {
 public:
-    void preorder(TreeNode* root,vector<int>&res){
-        if(root==NULL)return;
-        preorder(root->left,res);
-        res.push_back(root->val);
-        preorder(root->right,res);
-    }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int>res1,res2,res;
-        preorder(root1,res1);
-        preorder(root2,res2);
-        int i=0,j=0;
-        while(i<res1.size() && j<res2.size()){
-            if(res1[i]<=res2[j]){
-                res.push_back(res1[i]);
-                i++;
+        stack<TreeNode*>st1,st2;
+        vector<int>res;
+        while(root1 || root2|| !st1.empty() || !st2.empty()){
+            while(root1){
+                st1.push(root1);
+                root1=root1->left;
             }
+            while(root2){
+                st2.push(root2);
+                root2=root2->left;
+            }
+            if(st2.empty()|| (!st1.empty() && (st1.top()->val<=st2.top()->val)))             {
+                TreeNode *t=st1.top();
+                st1.pop();
+                res.push_back(t->val);
+                root1=t->right;
+            } 
             else{
-                res.push_back(res2[j]);
-                j++;
+                TreeNode *t=st2.top();
+                st2.pop();
+                res.push_back(t->val);
+                root2=t->right;
+                
             }
         }
-        while(i<res1.size())res.push_back(res1[i++]);
-        while(j<res2.size())res.push_back(res2[j++]);
         return res;
     }
 };
