@@ -28,13 +28,8 @@ public:
             curr=curr->next;
             idx++;
         }
-        // cout<<curr->val<<endl;
-        ListNode* t=head;
         head=curr->next;
         curr->next=NULL;
-        // curr=head;
-        // while(curr->next)curr=curr->next;
-        // curr->next=t;
         return head;
       
     }
