@@ -3,11 +3,20 @@ public:
     void rotate(vector<int>& nums, int k) {
         int n=nums.size();
         k%=n;
-        if(k==0)return;
-        vector<int>res(n);
-        for(int i=0;i<n;i++){
-            res[(i+k)%n]=nums[i];
+        int cnt=0;//tracks no of numbers rotated
+        int start=0,curr=0;
+        while(cnt<n){
+            curr=start;
+            int prev=nums[curr];
+            while(true){
+                int temp=nums[(curr+k)%n];
+                nums[(curr+k)%n]=prev;
+                prev=temp;
+                curr=(curr+k)%n;
+                cnt++;
+                if(curr==start)break;
+            }
+            start++;
         }
-        for(int i=0;i<n;i++)nums[i]=res[i];
     }
 };
