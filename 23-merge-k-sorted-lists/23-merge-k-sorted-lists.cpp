@@ -21,18 +21,20 @@ public:
             if(x)q.push(x);
         }
         if(q.empty())return NULL;
-        ListNode* res=q.top();
-        q.pop();
-        if(res->next){
-            q.push(res->next);
-        }
-        ListNode* tail=res;
+        // ListNode* res=q.top();
+        // q.pop();
+        // if(res->next){
+        //     q.push(res->next);
+        // }
+        ListNode* dummy=new ListNode(-1);
+        ListNode* tail=dummy;
         while(!q.empty()){
-            tail->next=q.top();
+            ListNode* t=q.top();
             q.pop();
+            tail->next=t;
             tail=tail->next;
             if(tail->next)q.push(tail->next);
         }
-        return res;
+        return dummy->next;
     }
 };
