@@ -1,12 +1,12 @@
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
-        unordered_map<int,int>mp;
-        for(auto x:nums)mp[x]=1;
-        int idx=0;
-        for(int i=-100;i<=100;i++){
-            if(mp.count(i))nums[idx++]=i;
+        int n=nums.size();
+        int cnt=0;
+        for(int i=1;i<n;i++){
+            if(nums[i]==nums[i-1])cnt++;
+            else nums[i-cnt]=nums[i];
         }
-        return mp.size();
+        return n-cnt;
     }
 };
