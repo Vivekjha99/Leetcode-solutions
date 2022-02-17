@@ -11,12 +11,16 @@
 class Solution {
 public:
     ListNode* removeNthFromEnd(ListNode* head, int n) {
-	ListNode* iter = head;
-	int len = 0, i = 1;
-	while(iter) iter = iter -> next, len++;    // finding the length of linked list
-	if(len == n) return head -> next;          // if head itself is to be deleted, just return head -> next
-	for(iter = head; i < len - n; i++) iter = iter -> next; // iterate first len-n nodes
-	iter -> next = iter -> next -> next;      // remove the nth node from the end
-	return head;
+	ListNode* fast = head,*slow=head;
+    while(n--)fast=fast->next;
+        if(!fast)return head->next;
+        //this will happen only when n==N so just delete the first node'
+        while(fast->next){
+            fast=fast->next;
+            slow=slow->next;
+        }
+        slow->next=slow->next->next;
+        return head;
+	
 }
 };
