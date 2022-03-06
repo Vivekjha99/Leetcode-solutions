@@ -2,7 +2,7 @@ class Solution {
 public:
     int n,m;
     void dfs(vector<vector<int>>&grid,int x,int y){
-        grid[x][y]=-1;
+        grid[x][y]=1;
         int dir[]={1,0,-1,0,1};
         for(int i=0;i<4;i++){
             int dx=x+dir[i];
