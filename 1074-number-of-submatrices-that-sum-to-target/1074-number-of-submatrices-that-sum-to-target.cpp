@@ -15,6 +15,7 @@ public:
             for(int colend=colstart;colend<m;colend++){
                 int sum=0;
                 mp={{0,1}};
+                // cout<<mp.size()<<endl;
                 //everytime we are checking a new segment
                 for(int row=0;row<n;row++){
                     sum+=mat[row][colend]-(colstart?mat[row][colstart-1]:0);
