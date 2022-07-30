@@ -89,7 +89,7 @@ public:
         // fire cannot spread to the path from grid(0,0) --> grid(n-1)(m-1), path exist, so answer == INFINITE
         // or fire can spread to person's path but road is blocked to reach destination, path doesnt exist, so answer is -1, i.e not reachable
         if(fireTime[n-1][m-1] == INT_MAX){
-           return (minTimeToReachEnd(0, grid) < INT_MAX ? 1000000000 : -1);
+           return (minTimeToReachEnd(n*m, grid) < INT_MAX ? 1000000000 : -1);
         }
         
         // compute maxWait time for fire reachable to safe house
