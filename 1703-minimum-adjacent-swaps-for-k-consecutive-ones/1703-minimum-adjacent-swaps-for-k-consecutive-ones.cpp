@@ -1,54 +1,34 @@
+#define ll long long
+
 class Solution {
 public:
-    int solveOdd(vector<int>&a, int k, vector<long long>&pref){
-        int n=a.size();
-        long long res=INT_MAX;
-        for(int l=0,r=k-1; r<n ; l++,r++){
-            int mid=(l+r)/2;
-            int radius=mid-l;
-            
-            long long right=pref[r]-pref[mid];
-            long long left=(mid==0 ? 0: pref[mid-1])-(l==0 ? 0: pref[l-1]);
-            long long minus=(radius+1)*radius;
-            
-            res=min(res,right-left-minus);
-        }
-        return res;
-    }
-    
-    int solveEven(vector<int>&a, int k, vector<long long>&pref){
-        int n=a.size();
-        long long res=INT_MAX;
-        for(int l=0,r=k-1; r<n ; l++,r++){
-            int mid=(l+r)/2;
-            int radius=mid-l;
-            
-            long long right=pref[r]-pref[mid];
-            long long left=(mid==0 ? 0: pref[mid-1])-(l==0 ? 0: pref[l-1]);
-            long long minus=(radius+1)*radius + (radius+1) + a[mid];
-            
-            res=min(res,right-left-minus);
-        }
-        return res;
-    }
-    
     int minMoves(vector<int>& nums, int k) {
-        int n=nums.size();
-        vector<int>a;
-        for(int i=0;i<n;i++){
-            if(nums[i]==1)
+        int i, n = nums.size(), l, r;
+        vector<ll> a;   // Indexes array
+        a.push_back(0); // Make indexes array the same size as prefix array
+        for(i=0; i<n; i++)
+            if(nums[i])
                 a.push_back(i);
+        n = a.size();
+        vector<ll> pref(n, 0);  // Prefix array
+        for(i=1; i<n; i++)     // prefix[i] = sum of all elements from a[0] to a[i - 1]
+            pref[i] = a[i] + pref[i - 1];
+        
+        ll ret = 1e18;
+        
+        // Rolling window [l...r] of length k
+        for(l=1,r=k; r<n; ++l, ++r) {
+            int mid = (l + r) / 2;  // Mid-point - current element
+            int radius = mid - l;   // How many elements on each side
+            ll right = pref[r] - pref[mid];     // Prefix of radius elements to the right of mid
+            ll left = pref[mid - 1] - pref[l - 1];  // Prefix of radius elements to the left of mid
+            ll subtract = (radius) * (radius + 1);  // Once all elements are equal, make it a sequence
+            if(k % 2 == 0) {        // Special case if k is even
+                left += a[mid];     // Deduct current element
+                subtract += (radius + 1);   // Deduct the cost of the furthest right element
+            }
+            ret = min(ret, right - left - subtract);
         }
-        vector<long long>pref(a.size(),0);
-        pref[0]=a[0];
-        for(int i=1;i<a.size();i++){
-            pref[i]=pref[i-1]+a[i];
-        }
-        int ans=0;
-        if(k%2==0)
-            ans=solveEven(a,k,pref);
-        else
-            ans=solveOdd(a,k,pref);
-        return ans;
+        return ret;
     }
 };
