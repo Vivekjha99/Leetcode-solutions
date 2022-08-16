@@ -12,14 +12,19 @@
 class Solution {
 public:
     bool isValidBST(TreeNode* root) {
-        TreeNode* prev = NULL;
-        return validate(root, prev);
-    }
-    bool validate(TreeNode* node, TreeNode* &prev) {
-        if (node == NULL) return true;
-        if (!validate(node->left, prev)) return false;
-        if (prev != NULL && prev->val >= node->val) return false;
-        prev = node;
-        return validate(node->right, prev);
+        stack<TreeNode*>st;
+        TreeNode* pre=NULL;
+        while(root!=NULL || !st.empty()){
+            while(root!=NULL){
+                st.push(root);
+                root=root->left;
+            }
+            root=st.top();
+            st.pop();
+            if(pre!=NULL && pre->val>=root->val)return false;
+            pre=root;
+            root=root->right;
+        }
+        return true;
     }
 };
