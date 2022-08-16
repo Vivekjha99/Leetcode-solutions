@@ -11,20 +11,16 @@
  */
 class Solution {
 public:
+    bool solve(TreeNode* root,TreeNode* &pre){
+        if(root==NULL)return true;
+        //inorder traversal
+        if(!solve(root->left,pre))return false;
+        if(pre!=NULL && pre->val>=root->val)return false;
+        pre=root;
+        return solve(root->right,pre);
+    }
     bool isValidBST(TreeNode* root) {
-        stack<TreeNode*>st;
         TreeNode* pre=NULL;
-        while(root!=NULL || !st.empty()){
-            while(root!=NULL){
-                st.push(root);
-                root=root->left;
-            }
-            root=st.top();
-            st.pop();
-            if(pre!=NULL && pre->val>=root->val)return false;
-            pre=root;
-            root=root->right;
-        }
-        return true;
+        return solve(root,pre);
     }
 };
