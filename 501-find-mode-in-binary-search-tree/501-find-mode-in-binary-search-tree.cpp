@@ -11,21 +11,27 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root,unordered_map<int,int>&mp){
+    int maxfreq=0,currfreq=0,prev=INT_MIN;
+    vector<int>res;
+    void solve(TreeNode* root){
         if(root==NULL)return;
-        solve(root->left,mp);
-        mp[root->val]++;
-        solve(root->right,mp);
+        solve(root->left);
+        if(prev==root->val)currfreq++;
+        else currfreq=1;
+        if(maxfreq<currfreq){
+            maxfreq=currfreq;
+            res.clear();
+            res.push_back(root->val);
+        }
+        else if(maxfreq==currfreq){
+            res.push_back(root->val);
+        }
+        prev=root->val;
+        solve(root->right);
     }
     vector<int> findMode(TreeNode* root) {
-        vector<int>ans;
-        unordered_map<int,int>mp;
-        solve(root,mp);
-        int maxi=-1;
-        for(auto x:mp)maxi=max(maxi,x.second);
-        for(auto x:mp){
-            if(x.second==maxi)ans.push_back(x.first);
-        }
-        return ans;
+        solve(root);
+        return res;
+        
     }
 };
