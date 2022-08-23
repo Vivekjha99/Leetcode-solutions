@@ -3,7 +3,7 @@ public:
     int smallestDistancePair(vector<int>& nums, int k) {
         int n=nums.size();
         sort(nums.begin(),nums.end());
-        int l=0,r=1000005;
+        int l=0,r=nums[n-1]-nums[0];
         while(l<r){
             int mid=(l+r)/2;
             int cnt=0;
