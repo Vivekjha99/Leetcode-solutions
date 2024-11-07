@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Hash Table
 |  |
