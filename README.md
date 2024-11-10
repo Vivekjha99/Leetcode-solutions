@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3394-minimum-array-end) |
 ## Counting
 |  |
@@ -52,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0224-basic-calculator) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
