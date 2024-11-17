@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0078-subsets) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
