@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0078-subsets) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
 ## Queue
 |  |
 | ------- |
