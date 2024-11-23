@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0518-coin-change-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0972-knight-dialer](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 ## Queue
 |  |
