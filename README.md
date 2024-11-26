@@ -193,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
