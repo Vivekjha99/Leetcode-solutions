@@ -17,7 +17,17 @@ vector<ll>dp;
         for(auto x:power)mp[x]++;
         vector<int>up;
         for(auto it:mp)up.push_back(it.first);
-         dp.resize(up.size(),-1);
-        return maxDamage(mp,up,0);
+        int n=up.size();
+         dp.resize(up.size()+1,-1);
+        // return maxDamage(mp,up,0);
+        dp[n]=0;
+        dp[n-1]=(1ll*up[n-1]*mp[up[n-1]]);
+        for(int i=n-2;i>=0;i--){
+            int nidx=lower_bound(up.begin(),up.end(),up[i]+3)-up.begin();
+            ll notTake=dp[i+1];
+            ll take=(1ll*up[i]*mp[up[i]])+dp[nidx];
+            dp[i]=max(take,notTake);
+        }
+    return dp[0];
     }
 };
