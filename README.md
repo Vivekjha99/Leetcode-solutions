@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3265-maximum-good-subarray-sum) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3265-maximum-good-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3265-maximum-good-subarray-sum) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Math
 |  |
 | ------- |
@@ -114,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -154,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0972-knight-dialer](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
 | ------- |
@@ -193,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Graph
 |  |
 | ------- |
