@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
