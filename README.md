@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -174,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0787-sliding-puzzle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Matrix
 |  |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Simulation
 |  |
 | ------- |
@@ -211,6 +215,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
