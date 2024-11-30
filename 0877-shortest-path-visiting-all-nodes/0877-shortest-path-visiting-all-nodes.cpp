@@ -15,21 +15,22 @@ public:
         int steps=0;
         while(!q.empty()){
             int sz=q.size();
-            steps++;
+            
             for(int i=0;i<sz;i++){
                 auto p=q.front();
                 q.pop();
                 int node=p.first;
                 int mask=p.second;
+                if(mask==finalState)return steps;
+                if(vis[node][mask])continue;
+                vis[node][mask]=1;
                 for(auto nb:graph[p.first]){
                     int newMask=mask|1<<nb;
                     if(vis[nb][newMask])continue;
-                    vis[nb][newMask]=1;
-                    if(newMask==finalState)return steps;
                     q.push({nb,newMask});
                 }
                 }
-                
+                steps++;
             }
         return -1;
     }
