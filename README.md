@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Stack
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
