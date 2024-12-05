@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0224-basic-calculator](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
