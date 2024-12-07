@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
