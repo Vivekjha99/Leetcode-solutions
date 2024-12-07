@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3265-maximum-good-subarray-sum) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Number Theory
 |  |
 | ------- |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3351-maximize-happiness-of-selected-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Graph
 |  |
