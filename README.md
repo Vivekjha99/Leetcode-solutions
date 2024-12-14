@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3534-count-almost-equal-pairs-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3534-count-almost-equal-pairs-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |
