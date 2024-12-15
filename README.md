@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1755-defuse-the-bomb) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1945-finding-the-users-active-minutes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1945-finding-the-users-active-minutes) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1917-maximum-average-pass-ratio](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2012-process-tasks-using-servers](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2012-process-tasks-using-servers) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
