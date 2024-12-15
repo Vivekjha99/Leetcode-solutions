@@ -19,7 +19,9 @@ public:
             int left=eachMachine*i;
             int right=eachMachine*(n-i-1);
             int leftFlow=0,rightFlow=0;
+            //if more dresses are needed in the machines to the left of current machine then we will find the left req dresses.
             if(i>0 && left>leftSum[i-1])leftFlow=(left-leftSum[i-1]);
+            //if more dresses are needed in the machines to the right of the current machine and these dresses are sent from left to right then we cal them.
             if(i<n-1 && right>rightSum[i+1])rightFlow=(right-rightSum[i+1]);
             // cout<<i<<" "<<leftFlow<<" "<<rightFlow<<endl;
             res=max(res,leftFlow+rightFlow);
