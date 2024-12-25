@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1041-available-captures-for-rook](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1041-available-captures-for-rook) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0972-knight-dialer](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1121-partition-array-for-maximum-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
