@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3265-maximum-good-subarray-sum) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Eulerian Circuit
 |  |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3326-count-pairs-of-connectable-servers-in-a-weighted-tree-network) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
