@@ -1,23 +1,24 @@
 class Solution {
 public:
     int mod = 1e9 + 7;
-    vector<vector<int>>dp;
-    long recursion(int cur_number, long cur_sum, int x, int n)
-    {
-        if(cur_sum == n) return 1;
-        if(cur_sum > n or cur_number > n) return 0;
-
-        if(dp[cur_number][cur_sum] != -1) return dp[cur_number][cur_sum];
-
-        long power = (pow(cur_number, x));
-
-        long add = recursion(cur_number + 1, cur_sum + power, x, n);
-        long skip = recursion(cur_number + 1, cur_sum, x, n);
-        return dp[cur_number][cur_sum] = ((add + skip) % mod);
-    }
     int numberOfWays(int n, int x) 
     {
-        dp.resize(n + 1, vector<int>(n + 1, -1));
-        return recursion(1, 0, x, n);
+        int maxNum = 1;
+        while (pow(maxNum, x) <= n) {
+            maxNum++;
+        }
+        maxNum--;
+        vector<vector<int>>dp(n+1,vector<int>(maxNum+1,0));
+        for(int i=0;i<=maxNum;i++){
+            dp[0][i]=1;
+        }
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=maxNum;j++){
+                dp[i][j]=dp[i][j-1];
+                if(i>=pow(j,x))dp[i][j]=(dp[i][j]+dp[i-pow(j,x)][j-1])%mod;
+            }
+        }
+        return dp[n][maxNum];
+        
     }
 };
