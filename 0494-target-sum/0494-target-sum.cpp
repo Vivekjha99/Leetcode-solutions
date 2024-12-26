@@ -1,16 +1,16 @@
 class Solution {
 public:
-    int findSumWays(vector<int>&nums,int i,int res,int t){
+int buffer=1000;
+    int findSumWays(vector<int>&nums,int i,int res,int t,vector<vector<int>>&dp){
         if(i>=nums.size()){
-            if(res==t)return 1;
-            else return 0;
+            return res==t;
         }
-        return findSumWays(nums,i+1,res+nums[i],t)+findSumWays(nums,i+1,res-nums[i],t);
+        if(dp[i][res+buffer]!=-1)return dp[i][res+buffer];
+        return dp[i][res+buffer]=findSumWays(nums,i+1,res+nums[i],t,dp)+findSumWays(nums,i+1,res-nums[i],t,dp);
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        int n=nums.size();
-        int res=0;
-        return findSumWays(nums,0,0,target);
+        vector<vector<int>>dp(nums.size()+1,vector<int>(3002,-1));
+        return findSumWays(nums,0,0,target,dp);
 
     }
 };
