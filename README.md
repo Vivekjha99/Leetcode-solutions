@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1041-available-captures-for-rook](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1041-available-captures-for-rook) |
 | [1063-best-sightseeing-pair](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0972-knight-dialer](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0972-knight-dialer) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0741-cherry-pickup](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
+| [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [1041-available-captures-for-rook](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1041-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
