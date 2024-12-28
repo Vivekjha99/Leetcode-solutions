@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Recursion
 |  |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0047-permutations-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0494-target-sum) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Breadth-First Search
 |  |
