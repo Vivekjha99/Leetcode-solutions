@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
+| [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1041-available-captures-for-rook](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1041-available-captures-for-rook) |
 | [1063-best-sightseeing-pair](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0224-basic-calculator](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0517-super-washing-machines](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0517-super-washing-machines) |
+| [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1917-maximum-average-pass-ratio](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -202,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
+| [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
