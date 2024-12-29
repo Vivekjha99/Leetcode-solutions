@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0496-next-greater-element-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0036-valid-sudoku) |
 | [0741-cherry-pickup](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
