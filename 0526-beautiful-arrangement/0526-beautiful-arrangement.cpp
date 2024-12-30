@@ -45,7 +45,7 @@ for(int i = 0; i< N; i++){
 return  dp[pos][mask] = ans;
 }
 int countArrangement(int N) {
-        int mask = 1<<15;
+        int mask = 1<<N;
         vector<vector<int>> dp (N, vector<int>(mask,-1));
         return countBeautifulArray(0,0,dp,N);    
 }
