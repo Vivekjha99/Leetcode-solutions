@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3649-minimum-time-to-break-locks-i) |
 ## Breadth-First Search
