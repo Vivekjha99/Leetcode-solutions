@@ -10,7 +10,6 @@ public:
             if(ind[i]==0)nodes.push_back(i);
         }
         return nodes;
-        
     }
 
 };
