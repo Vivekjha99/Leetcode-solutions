@@ -13,10 +13,10 @@ public:
             if(ind[i]==0)nodes.push_back(i);
         }
         vector<int>res;
+        queue<int>q;
         for(auto x:nodes){
             res.push_back(x);
             st.insert(x);
-            queue<int>q;
             q.push(x);
             while(!q.empty()){
                 int curr=q.front();
