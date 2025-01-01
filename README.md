@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
