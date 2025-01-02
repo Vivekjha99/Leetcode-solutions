@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1646-kth-missing-positive-number](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1041-available-captures-for-rook](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1041-available-captures-for-rook) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1972-rotating-the-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -417,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
@@ -476,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
