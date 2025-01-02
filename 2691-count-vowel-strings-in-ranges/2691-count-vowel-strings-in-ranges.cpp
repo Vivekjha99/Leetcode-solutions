@@ -12,13 +12,14 @@ public:
         for (int i = 0; i < words.size(); i++) {
             string s = words[i];
             if (isVowel(s[0]) && isVowel(s.back())) {
-                vs[i] = 1ll + (i == 0 ? 0ll : vs[i - 1]);
-            } else
-                vs[i] = vs[i - 1];
+                vs[i] = 1ll ;
+            } 
+            if(i!=0) vs[i]+=vs[i - 1];
         }
         vector<int> res;
         for (auto q : queries) {
-            long long r = vs[q[1]] - (q[0] == 0ll ? 0 : vs[q[0] - 1]);
+            long long r = vs[q[1]];
+            if(q[0]>0)r-=vs[q[0]-1];
             res.push_back((int)r);
         }
         return res;
