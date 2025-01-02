@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1121-partition-array-for-maximum-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -365,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -409,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
+| [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
@@ -467,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
