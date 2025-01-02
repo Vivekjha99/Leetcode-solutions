@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1041-available-captures-for-rook](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1041-available-captures-for-rook) |
 | [1063-best-sightseeing-pair](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
@@ -381,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
@@ -463,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
