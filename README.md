@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0224-basic-calculator](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0667-beautiful-arrangement-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -297,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0120-triangle) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0494-target-sum) |
@@ -520,6 +524,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Union Find
 |  |
 | ------- |
