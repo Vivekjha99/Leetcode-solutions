@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0120-triangle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0120-triangle) |
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -354,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0078-subsets) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
@@ -501,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -530,4 +534,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
