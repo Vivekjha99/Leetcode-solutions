@@ -1,49 +1,71 @@
-// W: the largest number
-// Time Complexity: O(n*sqrt(W))
-// Space Complexity: O(W)
+#define inc()                                                                  \
+    ios_base::sync_with_stdio(0);                                              \
+    cin.tie(0);                                                                \
+    cout.tie(0)
 
-class UnionFindSet {
+class DSU {
 public:
-    UnionFindSet(int n) : _parent(n) {
-        for (int i=0; i<n; i++) {
-            _parent[i] = i;
+    vector<int> rank, parent;
+
+    DSU(int n) {
+        rank.resize(n, 0);
+        parent.resize(n, 0);
+        iota(parent.begin(), parent.end(), 0);
+    }
+
+    int find(int x) {
+        if (x == parent[x])
+            return x;
+
+        return parent[x] = find(parent[x]);
+    }
+
+    void UnionByRank(int x, int y) {
+        int x_parent = find(x);
+        int y_parent = find(y);
+
+        if (x_parent == y_parent)
+            return;
+
+        if (rank[x_parent] > rank[y_parent]) {
+            parent[y_parent] = x_parent;
+        } else if (rank[y_parent] > rank[x_parent]) {
+            parent[x_parent] = y_parent;
+        } else {
+            parent[x_parent] = y_parent;
+            rank[y_parent]++;
         }
     }
-    
-    void Union(int x, int y) {
-        _parent[Find(x)] = _parent[Find(y)];
-    }
-    
-    int Find(int x) {
-        if (_parent[x] != x) {
-            _parent[x] = Find(_parent[x]);
-        }
-        return _parent[x];
-    }
-    
-private:
-    vector<int> _parent;
 };
 
 class Solution {
 public:
-    int largestComponentSize(vector<int>& A) {
-        int n = *max_element(A.begin(), A.end());
-        UnionFindSet ufs(n+1);
-        for (int &a : A) {
-            for (int k = 2; k <= sqrt(a); k++) {
-                if (a % k == 0) {
-                    ufs.Union(a, k);
-                    ufs.Union(a, a / k);
+    int largestComponentSize(vector<int>& nums) {
+        inc();
+
+        int n = *max_element(nums.begin(), nums.end()) + 1;
+        DSU dsu(n);
+
+        for (int& val : nums) {
+            for (int i = 2; i * i <= val; i++) {
+
+                if (val % i == 0) {
+                    dsu.UnionByRank(i, val);
+                    dsu.UnionByRank(val, val / i);
                 }
+                
             }
         }
-        
+
+        int result = 0;
         unordered_map<int, int> mp;
-        int ans = 1;
-        for (int &a : A) {
-            ans = max(ans, ++mp[ufs.Find(a)]);
+
+        for (int& val : nums) {
+            int parent = dsu.find(val);
+            mp[parent]++;
+            result = max(result, mp[parent]);
         }
-        return ans;
+
+        return result;
     }
 };
