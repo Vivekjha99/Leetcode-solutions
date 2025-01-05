@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0667-beautiful-arrangement-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
+| [2266-minimum-cost-to-set-cooking-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2266-minimum-cost-to-set-cooking-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3534-count-almost-equal-pairs-i) |
