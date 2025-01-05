@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1041-available-captures-for-rook](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1041-available-captures-for-rook) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0740-delete-and-earn](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0740-delete-and-earn) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0667-beautiful-arrangement-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
+| [0989-largest-component-size-by-common-factor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -248,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
@@ -509,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union Find
 |  |
 | ------- |
+| [0989-largest-component-size-by-common-factor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
