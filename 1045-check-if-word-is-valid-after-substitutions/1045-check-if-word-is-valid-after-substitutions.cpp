@@ -1,13 +1,18 @@
 class Solution {
 public:
     bool isValid(string s) {
-        while(s.size()>0){
-            int pos=s.find("abc");
-            if(pos==-1 && s.size()>0)return false;
-            string ns=s.substr(0,pos)+s.substr(pos+3);
-            // cout<<ns<<endl;
-            s=ns;    
+        vector<char>st;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='c'){
+                int n=st.size();
+                //never possible
+                if(n<2 || st[n-1]!='b' || st[n-2]!='a')return false;
+                st.pop_back();
+                st.pop_back();
+            }
+            else
+                st.push_back(s[i]);
         }
-        return s.size()==0;
+        return st.size()==0;
     }
 };
