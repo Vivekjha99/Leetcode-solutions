@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0979-di-string-match](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0979-di-string-match) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1045-check-if-word-is-valid-after-substitutions](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
