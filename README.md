@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1524-string-matching-in-an-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1646-kth-missing-positive-number](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1646-kth-missing-positive-number) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1032-satisfiability-of-equality-equations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1032-satisfiability-of-equality-equations) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1524-string-matching-in-an-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -582,4 +584,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
