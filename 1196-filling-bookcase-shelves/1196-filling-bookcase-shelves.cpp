@@ -19,6 +19,7 @@ public:
                 else{
                     //we will find the max height of this shelf
                     h=max(h,books[j][1]);
+                    //we are doing this here if the current set of books from i to j are placed in the current shelf then what will be the max height
                     dp[i+1]=min(dp[i+1],dp[j]+h);
                 }
             }
