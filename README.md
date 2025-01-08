@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2465-shifting-letters-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2531-create-components-with-same-value](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2531-create-components-with-same-value) |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2465-shifting-letters-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1755-defuse-the-bomb) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1753-path-with-minimum-effort) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -274,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2089-maximum-matrix-sum) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
@@ -454,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
+| [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
