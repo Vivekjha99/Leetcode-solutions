@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1196-filling-bookcase-shelves](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1308-smallest-string-with-swaps](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1308-smallest-string-with-swaps) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1063-best-sightseeing-pair) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1121-partition-array-for-maximum-sum) |
+| [1196-filling-bookcase-shelves](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
