@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-string-matching-in-an-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1524-string-matching-in-an-array) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
