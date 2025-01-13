@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0365-water-and-jug-problem](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0667-beautiful-arrangement-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0667-beautiful-arrangement-ii) |
 | [0989-largest-component-size-by-common-factor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0989-largest-component-size-by-common-factor) |
 | [2266-minimum-cost-to-set-cooking-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2266-minimum-cost-to-set-cooking-time) |
@@ -427,6 +428,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
@@ -521,6 +523,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0310-minimum-height-trees](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0332-reconstruct-itinerary) |
+| [0365-water-and-jug-problem](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
