@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3265-maximum-good-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3265-maximum-good-subarray-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3534-count-almost-equal-pairs-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
@@ -159,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3534-count-almost-equal-pairs-i) |
 ## Math
 |  |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
