@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3649-minimum-time-to-break-locks-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3649-minimum-time-to-break-locks-i) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -327,6 +329,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -389,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -412,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [2868-continuous-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -599,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3674-count-non-decreasing-subarrays-after-k-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3674-count-non-decreasing-subarrays-after-k-operations) |
 ## Memoization
 |  |
 | ------- |
