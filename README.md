@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2232-adding-spaces-to-a-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2358-number-of-ways-to-split-array](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2358-number-of-ways-to-split-array) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2465-shifting-letters-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2465-shifting-letters-ii) |
@@ -382,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1224-minimum-falling-path-sum-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [2205-find-good-days-to-rob-the-bank](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2205-find-good-days-to-rob-the-bank) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2562-count-ways-to-build-good-strings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
