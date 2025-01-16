@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2509-minimize-xor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2656-count-the-number-of-beautiful-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2656-count-the-number-of-beautiful-subarrays) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2305-append-k-integers-with-minimal-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2305-append-k-integers-with-minimal-sum) |
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2509-minimize-xor](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2716-prime-subtraction-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
