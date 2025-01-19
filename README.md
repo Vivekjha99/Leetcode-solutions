@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0120-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0407-trapping-rain-water-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0279-perfect-squares) |
 | [0310-minimum-height-trees](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0310-minimum-height-trees) |
 | [0365-water-and-jug-problem](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+| [0407-trapping-rain-water-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0744-network-delay-time](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0744-network-delay-time) |
 | [0753-open-the-lock](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0753-open-the-lock) |
@@ -473,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0036-valid-sudoku) |
+| [0407-trapping-rain-water-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0741-cherry-pickup) |
 | [0787-sliding-puzzle](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0787-sliding-puzzle) |
 | [0967-minimum-falling-path-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/0967-minimum-falling-path-sum) |
