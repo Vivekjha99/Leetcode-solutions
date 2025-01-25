@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3248-count-the-number-of-incremovable-subarrays-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3248-count-the-number-of-incremovable-subarrays-ii) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 | [3265-maximum-good-subarray-sum](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3265-maximum-good-subarray-sum) |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2359-maximum-white-tiles-covered-by-a-carpet](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2359-maximum-white-tiles-covered-by-a-carpet) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2979-maximize-the-profit-as-the-salesman](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2979-maximize-the-profit-as-the-salesman) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -653,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [2914-find-the-safest-path-in-a-grid](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2914-find-the-safest-path-in-a-grid) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
