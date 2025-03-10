@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3534-count-almost-equal-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3534-count-almost-equal-pairs-i) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Bit Manipulation
 |  |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/2868-continuous-subarrays) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3715-maximum-coins-from-k-consecutive-bags](https://github.com/Vivekjha99/Leetcode-solutions/tree/master/3715-maximum-coins-from-k-consecutive-bags) |
 ## Binary Search
 |  |
